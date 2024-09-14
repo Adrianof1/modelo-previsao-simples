@@ -11,7 +11,7 @@ Este repositório contém um modelo de previsão simples usando Flask e scikit-l
 
 ### Passo 1: Clonar o repositório
 
-git clone https://github.com/seu-usuario/modelo-previsao.git
+git clone https://github.com/seu-usuario/modelo-previsao-simples.git
 cd modelo-previsao
 
 ### Passo 2: Criar e ativar um ambiente virtual
