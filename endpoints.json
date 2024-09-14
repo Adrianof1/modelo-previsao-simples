@@ -1,0 +1,19 @@
+{
+    "train": {
+        "url": "/train",
+        "method": "POST",
+        "description": "Treina o modelo com dados fornecidos",
+        "payload": {
+            "X": "array de arrays de features",
+            "y": "array de valores alvo"
+        }
+    },
+    "predict": {
+        "url": "/predict",
+        "method": "POST",
+        "description": "Faz previsões com o modelo treinado",
+        "payload": {
+            "X": "array de arrays de features"
+        }
+    }
+}
